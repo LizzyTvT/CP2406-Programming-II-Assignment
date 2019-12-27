@@ -1,9 +1,0 @@
-CP2406 ASSESSMENT TASK 1 WORKING DOCUMENT
-
-Li xinyi (no.13537335)
-
-Problem specification
-
-The problem is to create a traffic simulator based on Australian traffic traffic rules. This simulator needs to include vehicles
-(cars, motorbikes, buses), roads and traffic lights. The user can change some settings of the simulator in order to simulate 
-various scenarios.
