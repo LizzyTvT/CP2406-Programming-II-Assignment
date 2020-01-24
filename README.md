@@ -1,6 +1,6 @@
 # CP2406-Programming-II-Assignment
 
-This is Assignment1 for CP2406 Programming
+This is Assignment1 and assignment2 for CP2406 Programming
 
 Student Name: LI XIN YI
 
